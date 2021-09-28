@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael Sousa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Blog](https://img.shields.io/website?label=rafaelpage.rf.gd&style=for-the-badge&url=https://rafadev.rf.gd/)](https://rafadev.rf.gd/)
+[![Blog](https://img.shields.io/website?label=rafadev.rf.gd&style=for-the-badge&url=https://rafadev.rf.gd/)](https://rafadev.rf.gd/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafinhas21)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561994346828)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-sousa-3a6413216/)
