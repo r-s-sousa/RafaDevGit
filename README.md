@@ -4,7 +4,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561994346828)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-sousa-3a6413216/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaDevGit&show_icons=true&theme=gruvbox)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=r-s-sousa&show_icons=true&theme=gruvbox)
 
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
